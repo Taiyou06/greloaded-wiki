@@ -11,6 +11,7 @@
 ## Server Guide
 
 * [📪 Starting out](server-guide/starting-out.md)
+* [⚔ Class info](server-guide/class-info.md)
 
 ## Helping the server&#x20;
 
