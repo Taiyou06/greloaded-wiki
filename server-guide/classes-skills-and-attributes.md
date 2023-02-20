@@ -4,7 +4,7 @@ description: >-
   points that you could've used on hyper-buffing that attack stat."
 ---
 
-# Classes, skills, & attributes
+# ⚔ Classes, skills, & attributes
 
 When you first join, you'll start with:
 

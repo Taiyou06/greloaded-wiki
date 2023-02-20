@@ -1,4 +1,4 @@
-# FAQ
+# ❕ FAQ
 
 1-**Is there a map download?**\
 Yes! but save on the server world is different in some ways (to make more space for players)
@@ -11,3 +11,6 @@ For more details anyone can check the [#roadmap](https://discord.com/channels/10
 
 **4-How can I let you guys know about issues?**\
 ****For bugs and stuff use [#bug-reports](https://discord.com/channels/1013224109473284126/1019717584653914194), or contact the staff team in [#staff-ticket](https://discord.com/channels/1013224109473284126/1013889906323505152).
+
+5-**Which social medias are you on?** \
+We are on quite a few social medias, see [.](./ "mention") for all the links!
