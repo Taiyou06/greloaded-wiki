@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Gensokyo Reimagined](README.md)
-* [FAQ](faq.md)
+* [❕ FAQ](faq.md)
 
 ## Overview
 
