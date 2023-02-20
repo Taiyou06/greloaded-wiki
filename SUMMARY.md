@@ -12,6 +12,7 @@
 
 * [📪 Starting out](server-guide/starting-out.md)
 * [⚔ Class info](server-guide/class-info.md)
+* [Classes, skills, & attributes](server-guide/classes-skills-and-attributes.md)
 
 ## Helping the server&#x20;
 
