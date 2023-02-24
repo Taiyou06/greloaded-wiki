@@ -33,7 +33,12 @@ A5: We have conditional HUDs and when your health/mana is full they will be hidd
 
 **Q6: When i right click and press space at the same time i start floating why is that?**
 
-A6: Yes, that is normal and it's cuz of we have climbing plugin (similar to BOTW :p)
+A6: Yes, that is normal and it's cuz of we have climbing plugin (similar to BOTW)
+
+\
+<mark style="color:red;">**Q7: Night seems like always stuck for me?**</mark>
+
+<mark style="color:red;">A7: It's because time sync issues between cave region and gensokyo, to fix it log out and log back in again</mark>
 {% endhint %}
 
 ## Step 1 - Picking your class
@@ -42,7 +47,7 @@ This is probably one of the most important choice that you make in the begining.
 Type `/class` to see the classes and pick it to your liking.
 
 After you picked your class there are still points to spend on different stuff.\
-You have skills type `/skills` to see which skills you can open it when you get your level high enough.
+You have different skills, type /skills to see which ones you can acquire, you can open it when you reach a certain level
 
 And last of all there is `/attributes` which are side buffs.\
 \
@@ -68,10 +73,10 @@ As for getting stronger, you can get basic vanilla armors as well as with <mark 
 
 You can protect your base/builds with `/claim` command this will enable 3D Claiming, how you are going to claim will be explained in chat when you type the command.\
 \
-But in TLDR for most of the commands are:
+But in TLDR for most of your claiming needs the commands are:
 
 ```
-/gd = Opens up Inventory GUI for control
+/gd = Opens up GUI control menu
 /claim = Claim mode
 /abandon = Abandon the claim thet you are IN
 /abandonall = ABANDONS ALL OF YOUR CLAIMS
