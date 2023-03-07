@@ -12,8 +12,9 @@
 
 * [📪 Starting out](server-guide/starting-out.md)
 * [⚔ Classes, skills, & attributes](server-guide/classes-skills-and-attributes.md)
+* [🪨 Down in the caves](server-guide/down-in-the-caves.md)
 
-## Helping the server&#x20;
+## Helping the server
 
 * [🎨 For Designers](helping-the-server/for-designers.md)
 * [🖥 For Developers](helping-the-server/for-developers.md)
