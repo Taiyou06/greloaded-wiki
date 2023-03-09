@@ -12,15 +12,15 @@ The caves are accessed by tunneling below about **-y58**, at that point you shou
 
 _insert gif of me falling from the cavern ceiling because funny_
 
-__
+\_\_
 
 ## Mining
 
-The caverns provide you will a resource that every player cherishes: **diamonds**! If you haven't noticed, no ores are generated in the map, rather, as you mine, you will find '[hidden veins](#user-content-fn-1)[^1]' of ore that will show themselves randomly as you tunnel. Diamonds are _only_ found in the caves; you don't need to be in the caverns, just within the cave region.&#x20;
+The caverns provide you will a resource that every player desires: **diamonds**! If you haven't noticed, no ores are generated in the map, rather, you will find '[hidden veins](#user-content-fn-1)[^1]' of ore that will show themselves randomly as you tunnel. Diamonds are _only_ found in the caves; you don't need to be in the caverns, just within the cave region.
 
 _insert gif of finding cool resources in a hidden vein_
 
-__
+\_\_
 
 ## Biomes/Regions
 
@@ -28,7 +28,7 @@ Something else you may have tried was building a nether portal and finding it do
 
 ### Forest
 
-It has trees. Oh and there's a nice river too! The forest's main feature is that it's landscape is packed to the brim with dark oak wood! A great place to grind your woodcutting stats, but do note that mobs will be spawning everywhere; there is almost no natural light on the cavern floor, so maybe you'll be fighting more than deforesting.&#x20;
+It has trees. Oh and there's a nice river too! The forest's main feature is that it's landscape is packed to the brim with dark oak wood! A great place to grind your woodcutting stats, but do note that mobs will be spawning everywhere; there is almost no natural light on the cavern floor, so maybe you'll be fighting more than deforesting.
 
 ### 'Nether'
 
