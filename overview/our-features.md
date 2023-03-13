@@ -38,9 +38,8 @@ You can choose your class accordingly to races in touhou!
 
 </div>
 
-## Custom Crops
+## Smithing and Enchanting
 
-There are 10 custom crops as well as watering system and crops getting effected by seasons!
+The server features new crafting stations like the smeltery with over 20 new recipes available to enhance the classic crafting experience, you can upgrade items crafted in the smeltery at the blacsmith anvil, we also have a bunch of custom enchants made at the Arcane Table(classic enchanting table is disabled).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Crops, Sprinklers and scarecrow!</p></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/tables.png" alt=""><figcaption><p>Smeltery, Arcane Table and Blacksmith Anvil</p></figcaption></figure>

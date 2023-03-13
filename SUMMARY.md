@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Gensokyo Reimagined](README.md)
+* [Gensokyo Reimagined](README.md)
 * [❕ FAQ](faq.md)
 
 ## Overview
@@ -13,6 +13,7 @@
 * [📪 Starting out](server-guide/starting-out.md)
 * [⚔ Classes, skills, & attributes](server-guide/classes-skills-and-attributes.md)
 * [🪨 Down in the caves](server-guide/down-in-the-caves.md)
+* [This is a test file](server-guide/this-is-a-test-file.md)
 
 ## Helping the server
 
