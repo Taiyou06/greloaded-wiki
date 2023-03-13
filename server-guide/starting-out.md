@@ -64,7 +64,19 @@ So make sure you choose the right class.
 
 After picking you class and spending your skill points and such... You can now safely explore the gensokyo and it's wonders! and do not worry you are safe from players, pvp is off by default for everyone. You can type `/pvp` to toggle on/off your pvp.\
 \
-As for getting stronger, you can get basic vanilla armors as well as with <mark style="color:blue;">Arcane Table</mark> you can craft custom weapons and custom armors!
+As for getting stronger, you will need to build the new crafting stations available for players to craft and smelt your classic weapons and armor(with custom materials planned in the future) which you will then have to upgrade at the blacksmith anvil to further strengthen it, To take things to the next step you will then need to build an <mark style="color:blue;">Arcane Table</mark> and enchant your already upgraded gear by using custom material and drops as well as the regular minecraft materials.
+
+<div>
+
+<figure><img src="../.gitbook/assets/anvil.png" alt=""><figcaption><p>Items currently available to upgrade at the Blacksmith Anvil station</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/smeltery.png" alt=""><figcaption><p>Recipes currently available at the smeltery</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/enchant.png" alt=""><figcaption><p>Example of an enchantment and the materials needed to craft it</p></figcaption></figure>
 
 ### Step 2.1 - Protecting your base/builds
 
