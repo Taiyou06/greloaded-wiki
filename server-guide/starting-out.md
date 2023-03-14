@@ -1,3 +1,7 @@
+---
+description: A simple guide to getting started!
+---
+
 # 📪 Starting out
 
 ## Step 0 - Some info you need to know!
@@ -62,9 +66,11 @@ So make sure you choose the right class.
 
 ### Step 2 - Surviving and Getting stronger
 
-After picking you class and spending your skill points and such... You can now safely explore the gensokyo and it's wonders! and do not worry you are safe from players, pvp is off by default for everyone. You can type `/pvp` to toggle on/off your pvp.\
+After picking you class and spending your skill points and such... You can now safely explore the Gensokyo and it's wonders! And you need not worry, you are safe from players as PvP is off by default for everyone. You can type `/pvp` to toggle on/off your pvp.\
 \
-As for getting stronger, you will need to build the new crafting stations available for players to craft and smelt your classic weapons and armor(with custom materials planned in the future) which you will then have to upgrade at the blacksmith anvil to further strengthen it, To take things to the next step you will then need to build an <mark style="color:blue;">Arcane Table</mark> and enchant your already upgraded gear by using custom material and drops as well as the regular minecraft materials.
+As for getting stronger, you'll need to build the new crafting stations to make better tools. Wooden and stone tools can be crafted like normal, but iron and up (including yet to be added materials) require the use of a specialized workstation: The Smeltery. There, you can craft your weapons and armor, which can then be upgraded at another crafting station, the Blacksmith Anvil, to further strengthen it.
+
+To take things to the next step, you can enchant your gear at an <mark style="color:blue;">Arcane Table</mark>, where you can create enchantment upgrades from custom materials as well as the normal Minecraft materials.
 
 <div>
 
